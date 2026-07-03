@@ -176,6 +176,12 @@ body{
     animation-delay: 0.5s;
 }
 
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @keyframes fadeIn{
     to {
         scale: 1;
